@@ -1,0 +1,14 @@
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\bin\Debug\net8.0\Big_Ball_Game.exe
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\bin\Debug\net8.0\Big_Ball_Game.deps.json
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\bin\Debug\net8.0\Big_Ball_Game.runtimeconfig.json
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\bin\Debug\net8.0\Big_Ball_Game.dll
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\bin\Debug\net8.0\Big_Ball_Game.pdb
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.AssemblyInfoInputs.cache
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.AssemblyInfo.cs
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.dll
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\refint\Big_Ball_Game.dll
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.pdb
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\Big_Ball_Game.genruntimeconfig.cache
+C:\Users\sebip\Probleme faculta\Big_Ball_Game\Big_Ball_Game\obj\Debug\net8.0\ref\Big_Ball_Game.dll
